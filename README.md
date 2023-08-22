@@ -40,7 +40,7 @@ This project utilizes the RoBERTa model, a state-of-the-art transformer-based mo
 
 To get started, follow these steps:
 
-Clone this repository: git clone [https://github.com/you/your-repo.git](https://github.com/JemmyAzuka/Amazon-Review-Sentiment-Analysis-using-Python-and-Roberta-Model.git)
+Clone this repository: git clone (https://github.com/JemmyAzuka/Amazon-Review-Sentiment-Analysis-using-Python-and-Roberta-Model.git)
 
 Navigate to the project directory: cd your-repo
 
