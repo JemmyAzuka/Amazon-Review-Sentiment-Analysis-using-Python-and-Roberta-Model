@@ -68,12 +68,6 @@ The dataset used for training and evaluation can be found in the dataset folder.
 
 
 
-## Results
-
-Our trained RoBERTa model achieved an accuracy of X% on the validation dataset. Further details about precision, recall, and F1-score can be found in the results section of our project documentation.
-
-
-
 ## Future Enhancements
 
 Fine-tune hyperparameters for improved performance.
