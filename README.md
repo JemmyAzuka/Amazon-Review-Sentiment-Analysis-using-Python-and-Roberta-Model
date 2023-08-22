@@ -42,7 +42,7 @@ To get started, follow these steps:
 
 Clone this repository: git clone (https://github.com/JemmyAzuka/Amazon-Review-Sentiment-Analysis-using-Python-and-Roberta-Model.git)
 
-Navigate to the project directory: cd your-repo
+Navigate to the project directory: cd Amazon-Review-Sentiment-Analysis-using-Python-and-Roberta-Model.git
 
 Install the required libraries: pip install -r requirements.txt
 
