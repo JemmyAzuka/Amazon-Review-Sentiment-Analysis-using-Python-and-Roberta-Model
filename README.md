@@ -2,9 +2,7 @@
 
 
 Amazon Review Sentiment Analysis using Python and RoBERTa Model
-Python Version
-Library
-Model
+
 
 This repository contains a Python-based solution for performing sentiment analysis on Amazon reviews using the RoBERTa model. Sentiment analysis aims to determine the sentiment or emotional tone expressed in a piece of text. In this project, we focus on classifying Amazon reviews into positive, negative, or neutral sentiments.
 
@@ -26,11 +24,11 @@ Results
 
 Future Enhancements
 
-Contributing
+Contribution
 
 
 
-Introduction
+## Introduction
 
 Sentiment analysis is a natural language processing task that involves determining the sentiment expressed in a piece of text. Amazon reviews provide a rich dataset for sentiment analysis, as they encompass a wide range of opinions and emotions from customers.
 
@@ -42,7 +40,7 @@ This project utilizes the RoBERTa model, a state-of-the-art transformer-based mo
 
 To get started, follow these steps:
 
-Clone this repository: git clone https://github.com/you/your-repo.git
+Clone this repository: git clone [https://github.com/you/your-repo.git](https://github.com/JemmyAzuka/Amazon-Review-Sentiment-Analysis-using-Python-and-Roberta-Model.git)
 
 Navigate to the project directory: cd your-repo
 
